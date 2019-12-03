@@ -1,5 +1,7 @@
 {
   "name": "webbit",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "tailwindcss": "^1.1.4"
+  }
 }
